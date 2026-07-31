@@ -1,6 +1,4 @@
 # Demo
-This is my first git repository.
-<br>
 #include <iostream>
 using namespace std;
 double calculator(double x , double y , int c){
